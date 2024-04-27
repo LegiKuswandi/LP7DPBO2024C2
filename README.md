@@ -21,6 +21,8 @@ Repositori ini berisi implementasi sederhana dari permainan klasik Flappy Bird m
 3. **FlappyBird**: Kelas ini adalah kelas utama yang menangani logika permainan. Ini mengatur pembangkitan pipa, pemain, serta logika permainan lainnya. Menangani masukan pengguna, pergerakan, deteksi tabrakan, dan tampilan permainan.
 
 ### Contoh Saat Program dijalankan
-https://github.com/LegiKuswandi/LP7DPBO2024C2/assets/147142081/7f1f2749-d0e2-4fb2-9b15-ef90c5fdedbd
+https://github.com/LegiKuswandi/LP7DPBO2024C2/assets/147142081/dd55c881-9b79-4ae4-b0c6-06b9cfea603f
+
+
 
 
